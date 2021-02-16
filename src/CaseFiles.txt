@@ -1,0 +1,42 @@
+The victim, Dr. Foo, was found dead in the bushes outside the mansion.
+An autopsy has not yet been performed, but it appears that the victim was
+murdered last night and dragged outside. At the night of the murder, there
+were six other guests present in the home.
+
+   Suspect Name:       Age:     Hair Color:
+1. Ms. Scarlett        24       Blond
+2. Colonial Mustard    62       Grey
+3. Mrs. White          57       White
+4. Reverend Green      42       Dark Brown
+5. Mrs. Peacock        38       Red
+6. Professor Plum      32       Light Brown
+
+The mansion was huge, though, and where in the house the crime was committed
+is currently unclear, but investigators are looking for clues as we speak.
+There are ten whole rooms to search, so this will take some time.
+
+   Room Name:       Location:       Nearby Rooms:
+1. Kitchen          NorthWest       Ballroom, Dining Room
+2. Ballroom         North           Kitchen, Conservatory
+3. Conservatory     NorthEast       Ballroom, Billiard
+4. Billiard         East            Conservatory, Library
+5. Library          East            Billiard, Study
+6. Study            SouthEast       Library, Hall
+7. Hall             South           Study, Lounge
+8. Lounge           SouthWest       Hall, Dining Room
+9. Dining Room      West            Lounge, Kitchen
+10. Cellar          Center          Ballroom, Billiard, Library, Hall, Dining Room
+
+Detectives found 6 different objects that seemed to be in strange locations,
+all of which could have been used to kill.
+
+   Object           Details
+1. Rope             Looks like it had been stretched quite a lot over the years. That, or maybe it happened recently...
+2. Wrench           One of those heavy-duty metal ones. Is that dried blood I see, or is it rust?
+3. Candlestick      Looks like it had recently been alit.
+4. Revolver         Pretty self explanatory.
+5. Knife            Looks pretty clean, but it's always possible it had been washed.
+6. Pipe             It's clearly still wet. Where it came from is unknown.
+
+We assigned detective Jill and her assistant Jack with the task of solving
+this case with the information gathered.
